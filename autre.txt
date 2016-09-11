@@ -1,1 +1,8 @@
-un autre fichier d'upload
+un autre fichier d'upload avec du code personnalisé pour gitconfig : 
+
+[alias]
+	svn aliases
+	co=checkout
+        ci=commit
+        st=status
+        br=branch
